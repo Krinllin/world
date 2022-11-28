@@ -1,0 +1,29 @@
+
+body{
+    background-color: rgb(196, 223, 223);
+    background-size:cover;
+}
+.container1{
+    display: flex;
+    background-color: rgb(97, 117, 117);
+    width: 100%;
+    border-radius: 5px;
+}
+.item{
+    padding:10px;
+    border:1px solid #CCCC;
+    Margin:5px;
+}
+.item:hover{
+    padding:10px;
+    border:1px solid #CCCC;
+    background-color: rgb(42, 50, 50);
+    Margin:5px;
+}
+.nav{
+    font-size: 14pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color:rgb(190, 190, 192)
+}
+        
